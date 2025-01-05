@@ -13,7 +13,7 @@ Tech Stack:
 - SweetAlert2
 
 Link Website:
-https://www.eki.my.id/
+  https://yujitech.github.io/YujiTech-Portfolio-main/ 
 
 We would appreciate it if you would like to use this project, please include our credit in your use. Thank You! 🙏
 
